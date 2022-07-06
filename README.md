@@ -1,8 +1,8 @@
-### I am João Pedro! 👋
+### I'm João Pedro! 👋
 
-- I am currently studying Software Engineering.
+- I am currently studying Software Engineering at Universidade de Brasília.
 - Studying AI, Javascript, and finances.
-- I'm looking for ways to integrate both.
+- I'm looking for ways to integrate both :rocket:
 
 
 <div align="center">

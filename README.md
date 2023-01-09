@@ -13,7 +13,7 @@ class AboutMe extends Developer {
 class Skills extends Developer {
   languages  = ['C', 'Javascript', 'Java', 'Python', 'HTML', 'CSS'];
   frameworks = ['React.js', 'Node.js'];
-  devOps = ['Docker', 'Kubernetes', 'AWS']
+  devOps = ['Docker', 'Kubernetes', 'AWS'];
   misc = ['Excel','MT5', 'MongoDB'];
 }
 ```
